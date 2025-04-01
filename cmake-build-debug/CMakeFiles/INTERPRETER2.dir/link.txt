@@ -1,0 +1,3 @@
+"D:\CLIONSETUP\CLion 2024.2.2\bin\cmake\win\x64\bin\cmake.exe" -E rm -f CMakeFiles\INTERPRETER2.dir/objects.a
+"D:\CLIONSETUP\CLion 2024.2.2\bin\mingw\bin\ar.exe" qc CMakeFiles\INTERPRETER2.dir/objects.a @CMakeFiles\INTERPRETER2.dir\objects1.rsp
+"D:\CLIONSETUP\CLion 2024.2.2\bin\mingw\bin\g++.exe" -g -Wl,--whole-archive CMakeFiles\INTERPRETER2.dir/objects.a -Wl,--no-whole-archive -o INTERPRETER2.exe -Wl,--out-implib,libINTERPRETER2.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\INTERPRETER2.dir\linkLibs.rsp
